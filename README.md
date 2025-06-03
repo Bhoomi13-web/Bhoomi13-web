@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhoomi13-web&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomi13-web" /> </p>
 
-- 🌱 I’m currently learning **GEN AI**
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/bhoomi-narela13](www.linkedin.com/in/bhoomi-narela13)
+- 🌱 I’m currently learning **GEN AI*
 
 - 💬 Ask me about **SQL,Python,powerbi, msexcel**
 
